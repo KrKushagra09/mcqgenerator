@@ -3,4 +3,15 @@ langchain
 streamlit
 python-dotenv
 PyPDF2
-huggingface
+huggingface_hub
+torch 
+torchvision 
+torchaudio
+transformers
+tensorflow
+
+-e .
+
+#pip list
+#pip install -r requirements.txt
+#pip install tensorflow --default-timeout=1000
